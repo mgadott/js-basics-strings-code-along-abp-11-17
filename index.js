@@ -8,6 +8,8 @@ const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
 const shortGreeting = ... ;
 
+shortGreeting;
+
 //const currentUser = 'Grace Hopper';
 
 //...
