@@ -12,4 +12,6 @@ const currentUser = 'Edsger Dijkstra';
 const shortGreeting = ... ;
 
 shortGreeting;
+ contains "Welcome"
+   ReferenceError: shortGreeting is not defined
 //=> "Welcome, E!"
