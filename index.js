@@ -9,5 +9,4 @@ const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
 ...
 
-const shortGreeting = '' ;
-
+const shortGreeting = 'Welcome, ' ;
